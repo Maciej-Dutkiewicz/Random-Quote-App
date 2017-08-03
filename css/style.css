@@ -1,0 +1,45 @@
+body {
+    background-color: #5AADEB;
+    text-align: center;
+    color: white;
+}
+h1 {
+    padding-top: 50px;
+}
+.trigger {
+    width: 250px;
+    height: 30px;
+    border: 1px solid white;
+    background-color: #5AADEB;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.tweet {
+    display: block;
+    width: 250px;
+    height: 30px;
+    border: 1px solid white;
+    background-color: #5AADEB;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+.quote {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+a {
+	color: white;
+	text-decoration: none;
+    text-align: center;
+    display:inline-block;
+    margin:0 auto;
+}
+i {
+    padding: 2px;
+}
+.container{
+  width: 100%;
+  text-align: center;
+}
